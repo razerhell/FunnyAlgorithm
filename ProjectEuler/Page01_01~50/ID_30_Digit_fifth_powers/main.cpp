@@ -11,6 +11,12 @@
 //
 //Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
 
+
+//Answer:
+//443839
+//Completed on Sun, 21 May 2017, 08:00
+
+
 #include <iostream>
 using namespace std;
 
